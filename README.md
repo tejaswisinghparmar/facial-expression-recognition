@@ -21,7 +21,7 @@ A powerful desktop application that combines real-time emotion detection and Ame
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.8 to 3.10(compulsory)
 - Webcam for real-time video input
 - ~500MB+ disk space for ML models
 - Ollama installed and running (for LLM features)
@@ -31,7 +31,7 @@ A powerful desktop application that combines real-time emotion detection and Ame
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/tejaswisinghparmar/facial-expression-recognition.git
-cd my_ai_project
+cd facial-expression-recognition
 ```
 
 ### 2. Create Virtual Environment
