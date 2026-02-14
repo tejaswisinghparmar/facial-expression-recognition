@@ -30,7 +30,7 @@ A powerful desktop application that combines real-time emotion detection and Ame
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/tejaswisinghparmar/facial-expression-recognition.git>
 cd my_ai_project
 ```
 
@@ -165,9 +165,6 @@ ls hand_landmarker.task
 - [ ] Video recording with annotations
 - [ ] Export functionality for analysis
 
-## License
-
-[Specify your license here]
 
 ## Contributing
 
