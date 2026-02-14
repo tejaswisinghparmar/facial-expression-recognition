@@ -59,8 +59,8 @@ my_ai_project/
 ├── main.py
 └── modules/
 ```
-[Download link for hand_landmarker.task]https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task
-[Documentation hand_landmarker.task](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker)
+[Download link for hand_landmarker.task] (https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task)
+[Documentation hand_landmarker.task] (https://developers.google.com/mediapipe/solutions/vision/hand_landmarker)
 
 ### 5. Install & Start Ollama
 For LLM integration features, install [Ollama](https://ollama.ai) and start the service before running the application.
