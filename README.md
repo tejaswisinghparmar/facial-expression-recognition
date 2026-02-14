@@ -30,7 +30,7 @@ A powerful desktop application that combines real-time emotion detection and Ame
 
 ### 1. Clone the Repository
 ```bash
-git clone <https://github.com/tejaswisinghparmar/facial-expression-recognition.git>
+git clone https://github.com/tejaswisinghparmar/facial-expression-recognition.git
 cd my_ai_project
 ```
 
